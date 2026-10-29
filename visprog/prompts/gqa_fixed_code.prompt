@@ -1,0 +1,2 @@
+ANSWER=VQA(image=IMAGE,question='qux')
+FINAL_RESULT=RESULT(var=ANSWER)
